@@ -42,7 +42,7 @@ class Solution:
         # return type: int
 
         # TODO: Write code below to return an int with the solution to the prompt
-        min_price = 100000
+        min_price_1 = 100000
         profit_1 = []
         max_profit_1 = 0
 
